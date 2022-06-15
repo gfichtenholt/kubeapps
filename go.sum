@@ -579,12 +579,13 @@ github.com/fluxcd/pkg/apis/acl v0.0.3 h1:Lw0ZHdpnO4G7Zy9KjrzwwBmDZQuy4qEjaU/RvA6
 github.com/fluxcd/pkg/apis/acl v0.0.3/go.mod h1:XPts6lRJ9C9fIF9xVWofmQwftvhY25n1ps7W9xw0XLU=
 github.com/fluxcd/pkg/apis/kustomize v0.3.1 h1:wmb5D9e1+Rr3/5O3235ERuj+h2VKUArVfYYk68QKP+w=
 github.com/fluxcd/pkg/apis/kustomize v0.3.1/go.mod h1:k2HSRd68UwgNmOYBPOd6WbX6a2MH2X/Jeh7e3s3PFPc=
-github.com/fluxcd/pkg/apis/meta v0.10.2 h1:pnDBBEvfs4HaKiVAYgz+e/AQ8dLvcgmVfSeBroZ/KKI=
 github.com/fluxcd/pkg/apis/meta v0.10.2/go.mod h1:KQ2er9xa6koy7uoPMZjIjNudB5p4tXs+w0GO6fRcy7I=
+github.com/fluxcd/pkg/apis/meta v0.14.2 h1:/Hf7I/Vz01vv3m7Qx7DtQvrzAL1oVt0MJcLb/I1Y1HE=
+github.com/fluxcd/pkg/apis/meta v0.14.2/go.mod h1:ijZ61VG/8T3U17gj0aFL3fdtZL+mulD6V8VrLLUCAgM=
 github.com/fluxcd/pkg/runtime v0.12.5 h1:/8+0UBnSHbO9DVG9IFTjc37lwofsixGbs5WpHso8n5s=
 github.com/fluxcd/pkg/runtime v0.12.5/go.mod h1:gspNvhAqodZgSmK1ZhMtvARBf/NGAlxmaZaIOHkJYsc=
-github.com/fluxcd/source-controller/api v0.21.2 h1:J0S5NN4V8FPLrkSMXIUoUvj1X/RuTpVJSjIRF414wmc=
-github.com/fluxcd/source-controller/api v0.21.2/go.mod h1:Ab2qDmAUz6ZCp8UaHYLYzxyFrC1FQqEqjxiROb/Rdiw=
+github.com/fluxcd/source-controller/api v0.25.6 h1:+wdA6SfOrUFW0sWNSHS5X4i4tgWZgySatJ+OT0Gxt6I=
+github.com/fluxcd/source-controller/api v0.25.6/go.mod h1:/e7YRDOqb8z8I3N8ifbDF1mknf8zFsoADtS/Q93iWPs=
 github.com/flynn/go-shlex v0.0.0-20150515145356-3f9db97f8568/go.mod h1:xEzjJPgXI435gkrCt3MPfRiAkVrwSbHsst4LCFVfpJc=
 github.com/fogleman/gg v1.2.1-0.20190220221249-0403632d5b90/go.mod h1:R/bRT+9gY/C5z7JzPU0zXsXHKM4/ayA+zqcVNZzPa1k=
 github.com/form3tech-oss/jwt-go v3.2.2+incompatible/go.mod h1:pbq4aXjuKjdthFRnoDwaVPLA+WlJuPGy+QneDUgJi2k=
@@ -2573,8 +2574,8 @@ sigs.k8s.io/apiserver-network-proxy/konnectivity-client v0.0.27/go.mod h1:tq2nT0
 sigs.k8s.io/controller-runtime v0.7.0/go.mod h1:pJ3YBrJiAqMAZKi6UVGuE98ZrroV1p+pIhoHsMm9wdU=
 sigs.k8s.io/controller-runtime v0.10.3/go.mod h1:CQp8eyUQZ/Q7PJvnIrB6/hgfTC1kBkGylwsLgOQi1WY=
 sigs.k8s.io/controller-runtime v0.11.0/go.mod h1:KKwLiTooNGu+JmLZGn9Sl3Gjmfj66eMbCQznLP5zcqA=
-sigs.k8s.io/controller-runtime v0.11.1 h1:7YIHT2QnHJArj/dk9aUkYhfqfK5cIxPOX5gPECfdZLU=
-sigs.k8s.io/controller-runtime v0.11.1/go.mod h1:KKwLiTooNGu+JmLZGn9Sl3Gjmfj66eMbCQznLP5zcqA=
+sigs.k8s.io/controller-runtime v0.11.2 h1:H5GTxQl0Mc9UjRJhORusqfJCIjBO8UtUxGggCwL1rLA=
+sigs.k8s.io/controller-runtime v0.11.2/go.mod h1:P6QCzrEjLaZGqHsfd+os7JQ+WFZhvB8MRFsn4dWF7O4=
 sigs.k8s.io/controller-tools v0.4.1/go.mod h1:G9rHdZMVlBDocIxGkK3jHLWqcTMNvveypYJwrvYKjWU=
 sigs.k8s.io/controller-tools v0.7.0/go.mod h1:bpBAo0VcSDDLuWt47evLhMLPxRPxMDInTEH/YbdeMK0=
 sigs.k8s.io/json v0.0.0-20211020170558-c049b76a60c6/go.mod h1:p4QtZmO4uMYipTQNzagwnNoseA6OxSUutVw05NhYDRs=
